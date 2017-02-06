@@ -1,5 +1,5 @@
 # Credit-Card-Form
-A Validating Creidt Card Form built using Javascript
+A Validating Credit Card Form built using Javascript
 
 Here is a link to my Credit Card Form:
 https://davidmonahan92.github.io/Credit-Card-Form/
