@@ -11,10 +11,9 @@ Following the EnventoTuts tutorial - (https://webdesign.tutsplus.com/courses/bui
 To Check valid Credit Card numbers visit the site below:
 http://www.freeformatter.com/credit-card-number-generator-validator.html
 
-Diego Salazar Luhn's Algoritm repository:
-https://gist.github.com/DiegoSalazar/4075533
 
 Related Links:
+
 
 Normalize.css - https://necolas.github.io/normalize.css/
 
@@ -25,3 +24,5 @@ Roboto Mono - https://fonts.google.com/specimen/Roboto+Mono
 jQuery -https://jquery.com/download/
 
 jquery.inputmask - https://github.com/RobinHerbots/Inputmask
+
+Diego Salazar Luhn's Algoritm repository - https://gist.github.com/DiegoSalazar/4075533
